@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Filmes de Ficção</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Top 5 Filmes de Ficção Científica</h1>
+  <ul>
+    <li>Interestelar</li>
+    <li>Matrix</li>
+    <li>Avatar</li>
+    <li>Gravidade</li>
+    <li>Planeta dos Macacos</li>
+  </ul>
+  <img src="ficção2.jpg" alt="ficção2">
+</body>
+</html>
