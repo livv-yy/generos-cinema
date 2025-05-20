@@ -1,0 +1,26 @@
+body {
+  background-color: #001f3f;
+  color: #cce6ff;
+  font-family: 'Courier New', monospace;
+  padding: 20px;
+}
+
+h1 {
+  color: #00ffff;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #66ffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+img {width: 400px;
+  border-radius: 20px; 
+  height: auto;}
