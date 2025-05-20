@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Filmes de Comédia</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Top 5 Filmes de Comédia</h1>
+  <ul>
+    <li>As Branquelas</li>
+    <li>Todo Mundo em Pânico</li>
+    <li>Jumanji: Bem-vindo à Selva</li>
+    <li>Minha Mãe é uma Peça</li>
+    <li>Gente Grande</li>
+  </ul>
+  <img src="comedia 2.png" alt="comedia2">
+</body>
+</html>
